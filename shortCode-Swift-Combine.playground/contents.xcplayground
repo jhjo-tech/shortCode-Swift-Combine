@@ -4,5 +4,6 @@
         <page name='Publisher &amp; Subscriber'/>
         <page name='Subject'/>
         <page name='Subscription'/>
+        <page name='Published'/>
     </pages>
 </playground>
